@@ -2,6 +2,7 @@ package com.loiane.cursojava.aula56;
 
 import java.util.InputMismatchException;
 
+//https://github.com/muriloferreira/utilities/blob/master/GeraCpfCnpj.java
 public class GeraCpfCnpj {
 
     private static boolean comPontos	= true;

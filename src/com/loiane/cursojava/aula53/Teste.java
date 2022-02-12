@@ -1,3 +1,5 @@
+package com.loiane.cursojava.aula53;
+
 import com.loiane.cursojava.aula53.DiaSemana;
 import com.loiane.cursojava.aula53.DiaSemanaConstantes;
 
@@ -21,7 +23,7 @@ public class Teste {
         int sabado = DiaSemanaConstantes.SABADO;
         int domingo = DiaSemanaConstantes.DOMINGO;
 
-        System.out.println("Teste utilizando constantes no Java");
+        System.out.println("com.loiane.cursojava.aula53.Teste utilizando constantes no Java");
         imprimeDiaSemana(segunda);
         imprimeDiaSemana(terca);
         imprimeDiaSemana(quarta);
@@ -70,7 +72,7 @@ public class Teste {
         DiaSemana sabado = DiaSemana.SABADO;
         DiaSemana domingo = DiaSemana.DOMINGO;
 
-        System.out.println("Teste utilizando enum no Java");
+        System.out.println("com.loiane.cursojava.aula53.Teste utilizando enum no Java");
         imprimeDiaSemana(segunda);
         imprimeDiaSemana(terca);
         imprimeDiaSemana(quarta);

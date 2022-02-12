@@ -1,0 +1,22 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Á‡Æùî/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°À±×üÿÿÿÿ8Ò‡Æùî/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ÈµÒ¨8Ó‡Æùî/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(‘ÀÆÄıÿÿÿÿ8Õ‡Æùî/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ï¦ü¶8Ö‡Æùî/
+T	java:S1061"9Replace this use of System.out or System.err by a logger.(“ÌÛ$8×‡Æùî/
+T	java:S1064"9Replace this use of System.out or System.err by a logger.(§Ş®+8Ø‡Æùî/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(„‚Çªûÿÿÿÿ8Ù‡Æùî/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(‰‚§ª8£Ììùî/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(²çÀ°8¸»óùî/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÈµÒ¨8¸»óùî/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(‘ÀÆÄıÿÿÿÿ8¸»óùî/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ï¦ü¶8¹»óùî/
+T	java:S106b"9Replace this use of System.out or System.err by a logger.(“ÌÛ$8¹»óùî/
+T	java:S106e"9Replace this use of System.out or System.err by a logger.(§Ş®+8¹»óùî/
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(„‚Çªûÿÿÿÿ8º»óùî/
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(‰‚§ª8ìùùî/
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(é•›8Ì—Ìúî/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(æ†ñşøÿÿÿÿ8Í—Ìúî/

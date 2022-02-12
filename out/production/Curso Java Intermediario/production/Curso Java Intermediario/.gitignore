@@ -1,3 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/out/production/Curso Java Intermediario/issuestore/
+/out/production/Curso Java Intermediario/production/
+/out/production/Curso Java Intermediario/sonarlint/
+/src/.editorconfig
+/.idea/sonarlint/

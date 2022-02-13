@@ -26,7 +26,7 @@ public class Calculadora {
             System.out.print(x + " ");
             System.out.print(om.toString() + " ");
             System.out.print(y + " ");
-            System.out.print(om.toString() + " ");
+            System.out.print(om + " ");
             System.out.print(z + " = ");
             System.out.println(om.executarOperacao(x,y,z));
         }

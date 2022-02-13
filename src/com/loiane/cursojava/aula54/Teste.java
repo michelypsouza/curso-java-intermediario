@@ -6,7 +6,7 @@ public class Teste {
 
         DiaSemana dia = DiaSemana.SEGUNDA;
 
-        System.out.println(dia.toString()+" - "+dia.getValor());
+        System.out.println(dia +" - "+dia.getValor());
 
         Data data = new Data(12, 2, 2022, DiaSemana.SABADO);
 

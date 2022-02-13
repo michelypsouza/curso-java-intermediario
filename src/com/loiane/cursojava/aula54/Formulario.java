@@ -6,7 +6,7 @@ public class Formulario {
 
         FEMININO('F'), MASCULINO('M');
 
-        private char valor;
+        private final char valor;
 
         Genero(char valor) {
             this.valor = valor;

@@ -92,18 +92,15 @@ public class GeraCpfCnpj {
 
     public static void main(String[] args) {
         GeraCpfCnpj gerador = new GeraCpfCnpj();
-        String cpf = gerador.cpf();
+        String cpf = cpf();
         System.out.printf("CPF: %s, Valido: %s\n", cpf, gerador.isCPF(cpf));
 
-        String cnpj = gerador.cnpj();
+        String cnpj = cnpj();
         System.out.printf("CNPJ: %s, Valido: %s\n", cnpj, gerador.isCNPJ(cnpj));
     }
 
     private void pontuacao() {
-        if (true)
-            comPontos = true;
-        else
-            comPontos = false;
+        comPontos = true;
     }
 
     public boolean isCPF(String CPF) {
@@ -126,7 +123,7 @@ public class GeraCpfCnpj {
                 // converte o i-esimo caractere do CPF em um numero:
                 // por exemplo, transforma o caractere '0' no inteiro 0
                 // (48 eh a posicao de '0' na tabela ASCII)
-                num = (int) (CPF.charAt(i) - 48);
+                num = CPF.charAt(i) - 48;
                 sm = sm + (num * peso);
                 peso = peso - 1;
             }
@@ -141,7 +138,7 @@ public class GeraCpfCnpj {
             sm = 0;
             peso = 11;
             for (i = 0; i < 10; i++) {
-                num = (int) (CPF.charAt(i) - 48);
+                num = CPF.charAt(i) - 48;
                 sm = sm + (num * peso);
                 peso = peso - 1;
             }
@@ -153,10 +150,7 @@ public class GeraCpfCnpj {
                 dig11 = (char) (r + 48);
 
             // Verifica se os digitos calculados conferem com os digitos informados.
-            if ((dig10 == CPF.charAt(9)) && (dig11 == CPF.charAt(10)))
-                return (true);
-            else
-                return (false);
+            return (dig10 == CPF.charAt(9)) && (dig11 == CPF.charAt(10));
         } catch (InputMismatchException erro) {
             return (false);
         }
@@ -182,7 +176,7 @@ public class GeraCpfCnpj {
                 // converte o i-ésimo caractere do CNPJ em um número:
                 // por exemplo, transforma o caractere '0' no inteiro 0
                 // (48 eh a posição de '0' na tabela ASCII)
-                num = (int) (CNPJ.charAt(i) - 48);
+                num = CNPJ.charAt(i) - 48;
                 sm = sm + (num * peso);
                 peso = peso + 1;
                 if (peso == 10)
@@ -199,7 +193,7 @@ public class GeraCpfCnpj {
             sm = 0;
             peso = 2;
             for (i = 12; i >= 0; i--) {
-                num = (int) (CNPJ.charAt(i) - 48);
+                num = CNPJ.charAt(i) - 48;
                 sm = sm + (num * peso);
                 peso = peso + 1;
                 if (peso == 10)
@@ -213,10 +207,7 @@ public class GeraCpfCnpj {
                 dig14 = (char) ((11 - r) + 48);
 
             // Verifica se os dígitos calculados conferem com os dígitos informados.
-            if ((dig13 == CNPJ.charAt(12)) && (dig14 == CNPJ.charAt(13)))
-                return (true);
-            else
-                return (false);
+            return (dig13 == CNPJ.charAt(12)) && (dig14 == CNPJ.charAt(13));
         } catch (InputMismatchException erro) {
             return (false);
         }

@@ -3,16 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="cdf634a8-378e-49cd-b965-2944c80b2097" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Intermediario/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Intermediario/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Intermediario/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/issuestore/3/c/3cfb66c0e59a1ba364b26777c9dd062df9da0bfb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/issuestore/3/c/3cfb66c0e59a1ba364b26777c9dd062df9da0bfb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/sonarlint/issuestore/3/c/3cfb66c0e59a1ba364b26777c9dd062df9da0bfb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/production/Curso Java Intermediario/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/sonarlint/issuestore/3/c/3cfb66c0e59a1ba364b26777c9dd062df9da0bfb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/production/Curso Java Intermediario/sonarlint/issuestore/index.pb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Curso Java Intermediario/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Intermediario/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/aula53/DiaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula53/DiaSemana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/aula54/DiaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula54/DiaSemana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/aula54/Formulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula54/Formulario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/aula54/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula54/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/aula56/GeraCpfCnpj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula56/GeraCpfCnpj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/aula56/exercicio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula56/exercicio/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/aula56/exercicio/OperacaoMatematica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula56/exercicio/OperacaoMatematica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +79,13 @@
       <recent name="com.loiane.cursojava.aula53" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteWrapper">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula56.exercicio.Calculadora" />
+  <component name="RunManager" selected="Application.PassagemValorParametro">
+    <configuration name="PassagemValorParametro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula61.PassagemValorParametro" />
       <module name="Curso Java Intermediario" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.cursojava.aula56.exercicio.*" />
+          <option name="PATTERN" value="com.loiane.cursojava.aula61.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteDocumento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula56.TesteDocumento" />
+    <configuration name="StaticImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula59.StaticImport" />
       <module name="Curso Java Intermediario" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.cursojava.aula56.*" />
+          <option name="PATTERN" value="com.loiane.cursojava.aula59.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula55.TesteEnum" />
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula60.Teste" />
       <module name="Curso Java Intermediario" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.cursojava.aula55.*" />
+          <option name="PATTERN" value="com.loiane.cursojava.aula60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteEnum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula55.TesteEnum2" />
+    <configuration name="TesteAUtoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.cursojava.aula58.TesteAUtoboxing" />
       <module name="Curso Java Intermediario" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.cursojava.aula55.*" />
+          <option name="PATTERN" value="com.loiane.cursojava.aula58.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PassagemValorParametro" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.StaticImport" />
+        <item itemvalue="Application.TesteAUtoboxing" />
         <item itemvalue="Application.TesteWrapper" />
-        <item itemvalue="Application.Calculadora" />
-        <item itemvalue="Application.TesteDocumento" />
-        <item itemvalue="Application.TesteEnum2" />
-        <item itemvalue="Application.TesteEnum" />
       </list>
     </recent_temporary>
   </component>

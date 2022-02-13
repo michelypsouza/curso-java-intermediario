@@ -25,3 +25,15 @@ c
 3src/com/loiane/cursojava/aula56/TesteDocumento.java,4/b/4be4b8b55481c53c93d7b65713a7b370d3070af5
 b
 2src/com/loiane/cursojava/aula56/TipoDocumento.java,8/4/845a75ada46eafc72110656b463754d8d3e44f43
+j
+:src/com/loiane/cursojava/aula56/exercicio/Calculadora.java,5/c/5cc2527b45efa5180a85cdfeeb15f2b9a6eac8ae
+A
+src/.editorconfig,3/c/3cfb66c0e59a1ba364b26777c9dd062df9da0bfb
+a
+1src/com/loiane/cursojava/aula57/TesteWrapper.java,3/9/39d8b86963a620bc77003c1ac146753927ffe6ff
+q
+Asrc/com/loiane/cursojava/aula56/exercicio/OperacaoMatematica.java,8/0/809449e70044cd20283343c6f5b5aebac1a7fe8e
+d
+4src/com/loiane/cursojava/aula58/TesteAUtoboxing.java,4/1/4112c10d2c9db5493f497534da5968aae6b9cf4f
+a
+1src/com/loiane/cursojava/aula59/StaticImport.java,5/1/51d770e3d197dad315723f656fa176529c3ebcf6

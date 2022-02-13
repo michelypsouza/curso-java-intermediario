@@ -61,7 +61,7 @@ public enum OperacaoMatematica {
         }
     };
 
-    private char simbolo;
+    private final char simbolo;
 
     OperacaoMatematica(char simbolo) {
         this.simbolo = simbolo;

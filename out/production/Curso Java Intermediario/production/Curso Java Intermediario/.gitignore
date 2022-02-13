@@ -1,7 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/out/production/
-/.idea/sonarlint/
+/out/
+/.idea/
 /src/.editorconfig
-/.idea/sonarlint/

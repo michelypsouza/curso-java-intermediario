@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula75_84;
+package com.loiane.cursojava.aulas75_84;
 
 public class Aula79 {
 
